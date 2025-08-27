@@ -14,3 +14,6 @@ Setup
 ## Features
 - 9 controllers to control the Synth Voice
 - 8 controllers to control the effects section
+
+See https://github.com/drmarkreuter/Korg_NTS1_MIDI_controller/wiki for MIDI implementation
+
